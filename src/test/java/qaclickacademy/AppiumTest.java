@@ -10,5 +10,6 @@ public void Methodone() {
 @Test
 public void Methodtwo() {
 	System.out.println("i am in methodtwo");
+	System.out.println("i am in Methodone");
 }
 }
